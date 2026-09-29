@@ -1,0 +1,5 @@
+{
+  "name": "test-plugin",
+  "description": "Throwaway plugin to test whether a PreToolUse hook fires on raw commands vs. skill-invoked commands.",
+  "version": "0.0.1"
+}

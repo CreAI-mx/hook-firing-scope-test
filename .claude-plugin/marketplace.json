@@ -1,0 +1,7 @@
+{
+  "name": "hook-firing-scope-test",
+  "owner": { "name": "CreAI-mx" },
+  "plugins": [
+    { "name": "test-plugin", "source": "./test-plugin", "description": "Throwaway plugin to test hook-firing scope." }
+  ]
+}
